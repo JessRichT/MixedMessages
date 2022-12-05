@@ -2,7 +2,7 @@
 
 ## This is a random sentence maker machine.
 
-### **Press** the button to see it work!
+**Press** the button to see it work!
 
 ## What is the purpose of this?
 
